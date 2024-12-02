@@ -1,14 +1,14 @@
 # Welcome to BugHunter-X 👾
 
-BugHunter-X is an AI-powered repository designed to help developers debug and learn. Each repository contains carefully generated **bugs** and their corresponding **solutions**, providing valuable resources for troubleshooting and learning new programming concepts.
+BugHunter-X is a repository designed to help developers debug and learn. Each repo contains common programming **bugs** and their **solutions**, providing valuable resources for troubleshooting and mastering new programming concepts.
 
 ---
 
 ## How It Works
-🚀 **AI-Powered Content**  
-Our automated system creates repositories with common programming bugs, their explanations, and practical solutions.  
+🚀 **Expertly Curated Content**  
+We create repositories with real-world programming bugs, detailed explanations, and practical solutions.
 
-🛠 **Languages**  
+🛠 **Languages Supported**  
 We cover multiple programming languages, from **JavaScript** to **Python** and beyond.
 
 🌟 **Search-Friendly**  
